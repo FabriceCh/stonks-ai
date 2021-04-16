@@ -1,0 +1,2 @@
+# stonks-ai
+stonks
